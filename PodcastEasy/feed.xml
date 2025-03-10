@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>R57Zone Podcasts</title>
+		<link>https://r57zone.github.io/</link>
+		<language>en</language>
+		<lastBuildDate>Sun, 01 Jan 2017 15:10:00 +0300</lastBuildDate>
+		<description />
+
+		<item>
+			<title>Sophomore Makeout</title>
+			<link>https://www.youtube.com/audiolibrary/music</link>
+			<pubDate>Sun, 01 Jan 2017 15:10:00 +0300</pubDate>
+			<guid isPermaLink="true">https://r57zone.github.io/PodcastEasy/Sophomore_Makeout.mp3</guid>
+			<description></description>
+			<enclosure url="https://r57zone.github.io/PodcastEasy/Sophomore_Makeout.mp3" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>
